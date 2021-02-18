@@ -18,6 +18,23 @@ i {
     font-size: 14px;
   }
 
+  h2, h3 {
+    font-size: 7px;
+    letter-spacing: 1px;
+    font-variant: small-caps;
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    transform: translateX(-50%);
+  }
+  
+  h2 {
+    font-size: 8px;
+    top: 29%;
+    letter-spacing: 3px;
+    font-weight: bold;
+  }
+
 .clock {
     width: 350px;
     height: 350px;
